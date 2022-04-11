@@ -1,14 +1,11 @@
 ## Olá! Eu sou o Lucas Siqueira
 
- - :mortar_board: Estudante de T.I e UX/UI Designer Júnior
- - :video_game: Jogador de CSGO e FIFA 
+ - :mortar_board: Estagiário de Desenvolvimento de Software e UX/UI Designer Júnior
+ - :video_game: Jogador de CS:GO
  - :snake: Estudando Python
 ##
 
- <a href="https://github.com/LucasHenr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassiqueira&layout=compact&langs_count=7&theme=dracula"/>
-  
- ##
+##
   
   <h3>Ferramentas e linguagens
     <p>
