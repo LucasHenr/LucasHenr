@@ -12,7 +12,9 @@
     <p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas -Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas -Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas -Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+  <img align="center" alt="Lucas -Css" height="30" width="40" src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white>
+  <img align="center" alt="Lucas -Html" height="30" width="40" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
   <img align="center" alt="Lucas -Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Lucas -Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Lucas - XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
